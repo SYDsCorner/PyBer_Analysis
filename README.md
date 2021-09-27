@@ -3,7 +3,8 @@
 ## Challenge Overview
 
 ### Purpose:
-	The purpose of this analysis is to create a summary DataFrame of the ride-sharing data by city type and also create a multiple-line graph that shows the total weekly fares for each city type so we will be able to visualize how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+
+   The purpose of this analysis is to create a summary DataFrame of the ride-sharing data by city type and also create a multiple-line graph that shows the total weekly fares for each city type so we will be able to visualize how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 	
 	
 ## Results: 
@@ -22,5 +23,9 @@
 
         
 ## Challenge Summary: 
-	Based on the results, the first thing that I would like to recommend to the CEO is to make more advertisements in suburban and rural areas to encourage more people to become drivers and to encourage more people use our rideshare service. Second, I would recommend that the company makes a promotion for a period of time to decrease the fare per ride in rural areas until the number of riders increases. Third, since there are more riders in urban areas, we can increase the fare per ride in rush hours.
+
+- Based on the results, 
+   - The first thing that I would like to recommend to the CEO is to make more advertisements in suburban and rural areas to encourage more people to become drivers and to encourage more people use our rideshare service. 
+   - Second, I would recommend that the company makes a promotion for a period of time to decrease the fare per ride in rural areas until the number of riders increases. 
+   - Third, since there are more riders in urban areas, we can increase the fare per ride in rush hours.
    
