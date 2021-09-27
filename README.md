@@ -8,7 +8,7 @@
 	
 ## Results: 
 
-	The differences in ride-sharing data among the different city types are: 
+- The differences in ride-sharing data among the different city types are: 
     - The total number of rides in urban cities is about 13 and 2.6 times higher per city than the rural and suburban cities, respectively.
     - The total number of drivers in urban cities is about 30.8 and 4.9 times higher per city than the rural and suburban cities, respectively.
     - The total fares in urban cities is about 9.2 and 2 times higher per city than the rural and suburban cities, respectively.
