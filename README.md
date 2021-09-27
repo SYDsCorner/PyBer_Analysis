@@ -14,7 +14,7 @@
     - The total fares in urban cities is about 9.2 and 2 times higher per city than the rural and suburban cities, respectively.
     - The average fare per ride in rural cities is about 1.1 and 1.4 times higher per city than the suburban and urban cities, respectively.
     - The average fare per driver in rural cities is about 1.4 and 3.3 times higher per city than the suburban and urban cities, respectively.
-    - Overall, urban cities are the most profitable, followed by suburban cities, with rural cities at the bottom.
+    - Overall, urban cities are the most profitable, followed by suburban cities, with rural cities at the bottom. Profits for all city types are especially great around the end of February.
 
 ![Ride-sharing data](https://user-images.githubusercontent.com/89308251/134821491-a342733c-d670-4ed0-afbe-edcaa6d0914a.png)
 
