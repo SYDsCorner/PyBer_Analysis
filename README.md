@@ -12,6 +12,7 @@
 ## Resources
 - Software:
    - Jupyter Notebook 6.4.6
+      - Python 3.6.1
 
 - Data sources: 
    - [city_data.csv](https://github.com/SYDsCorner/PyBer_Analysis/blob/main/Resources/city_data.csv)
