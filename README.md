@@ -1,12 +1,24 @@
 # PyBer_Analysis
 
+<img width="1920" alt="e8fc0f789129b17cc8ae2e05b91e93d0752bef67-3840x2160" src="https://user-images.githubusercontent.com/89308251/158933227-27938388-0e49-48bf-8409-b27ecbcf718b.png">
+
+
 ## Challenge Overview
 
 ### Purpose:
 
    The purpose of this analysis is to create a summary DataFrame of the ride-sharing data by city type and also create a multiple-line graph that shows the total weekly fares for each city type so we will be able to visualize how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 	
-	
+## Resources
+- Software:
+   - Jupyter Notebook 6.4.6
+
+- Data sources: 
+   - [city_data.csv](https://github.com/SYDsCorner/PyBer_Analysis/blob/main/Resources/city_data.csv)
+   - [ride_data.csv](https://github.com/SYDsCorner/PyBer_Analysis/blob/main/Resources/ride_data.csv)
+
+
+
 ## Results: 
 
 - The differences in ride-sharing data among the different city types are: 
